@@ -1,0 +1,11 @@
+/----------------------------------------------\
+|/--------------------------------------------\|
+|| GET YOUR SAVED GAMES FROM AN OLDER VERSION ||
+|\--------------------------------------------/|
+\---------------------------------------------/
+
+If you already downladed version v1.1.0 of Codename:
+ Nuclear, and you want to keep your saved games, just
+ copy the file 'nuclear_gamedata.ini' to this folder.
+
+TRAMONTANA GAMES, 16 AUGUST 2015
